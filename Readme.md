@@ -2,6 +2,13 @@ Heavily adapted from
 
 https://github.com/neel4software/SpringJDBCTemplate
 
+Blogpost at 
+
+http://www.beingjavaguys.com/2013/07/spring-jdbc-template-with-spring-mvc.html
+
+contains some info.
+
+
 Introduced maven in order to make it possible to build this is a consistent way
 
 Following DDL scipt can be used to create mysql database
