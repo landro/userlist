@@ -1,0 +1,8 @@
+---
+applications:
+  target:
+    name: userlist
+    mem: 512M
+    services:
+      mysql-spring:
+        type: mysql
